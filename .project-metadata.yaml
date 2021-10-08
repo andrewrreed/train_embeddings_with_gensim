@@ -9,8 +9,8 @@ api_version: 1
 runtimes:
   - editor: Jupyter
     kernel: Python 3.8
-    edition: Standard
-    version: 2021.09
+    edition: Technical Preview
+    version: 2021.11
 
 tasks:
   - type: run_session
