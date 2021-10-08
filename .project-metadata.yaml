@@ -7,6 +7,6 @@ date: "2021-07-13"
 api_version: 1
 
 runtimes:
-  - editor: Workbench
+  - editor: JupyterLab
     kernel: Python 3.8
     edition: Standard
