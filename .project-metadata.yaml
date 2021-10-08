@@ -10,3 +10,10 @@ runtimes:
   - editor: JupyterLab
     kernel: Python 3.8
     edition: Standard
+
+tasks:
+  - type: run_session
+    name: Start JupyterLab Session
+    script: train_gensim_word2vec.ipynb
+    memory: 4
+    cpu: 2
